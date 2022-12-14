@@ -1,5 +1,5 @@
 const Content = (props) => {
-  const { photographer, src } = props;
+  const { photographer, src } = props; // Desc.
   return (
     <div className="picture">
       <div className="imageContainer">
